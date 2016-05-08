@@ -24,6 +24,7 @@ perl getRepos.pl -n StayerX # Download the repositories for a user
 perl getRepos.pl -t orgs -n project-renard # and for an organisation
 ```
 * Note: if you do `CTRL + c` it should skip a repository
-#TO Do
+
+# TO Do
 
 Support to pull changes automatically.
