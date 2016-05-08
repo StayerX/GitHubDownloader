@@ -3,12 +3,13 @@
 Download all the repositories from a GitHub useraccount
 
 # Installation
-
+```sh
 sudo apt-get install libcurl4-openssl-dev
 sudo cpan JSON WWW:curl
+```
 
 # Prerequisite
-1. Setup rsa ssh keys in .ssh appropriately (so that you have ssh access to repositories)
+* Setup rsa ssh keys in .ssh appropriately (so that you have ssh access to repositories)
 
 # Usage
 
