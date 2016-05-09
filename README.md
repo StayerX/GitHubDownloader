@@ -18,7 +18,7 @@ sudo cpan JSON WWW:curl
  perl getRepos.pl [--type {users|orgs}]  --name <username>
 ```
 
-* Example:
+# Example:
 ```perl
 perl getRepos.pl -n StayerX # Download the repositories for a user
 perl getRepos.pl -t orgs -n project-renard # and for an organisation
