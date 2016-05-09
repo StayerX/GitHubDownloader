@@ -1,4 +1,4 @@
-# GitHubDownloader
+# GitHub-Downloader
 
 Download all the repositories from a GitHub useraccount
 
