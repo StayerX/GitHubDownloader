@@ -2,7 +2,7 @@
 
 Download all the repositories from a GitHub useraccount
 
-# Installation
+# Requirements
 ```sh
 sudo apt-get install libcurl4-openssl-dev
 sudo cpan JSON WWW:curl
