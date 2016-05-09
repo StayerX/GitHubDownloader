@@ -28,8 +28,9 @@ perl getRepos.pl -t orgs -n project-renard # and for an organisation
 ## Contributing
 
 1. Fork it [https://github.com/StayerX/GitHubDownloader/fork](https://github.com/StayerX/GitHubDownloader/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
+2. Create your feature branch (`git checkout -b <my-new-feature>`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
+3. Push your changes (`git push`)
 
 # TO Do
 
